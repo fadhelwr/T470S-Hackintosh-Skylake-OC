@@ -1,4 +1,4 @@
-# ThinkPad T460s running macOS (OpenCore bootloader)
+# ThinkPad T470s running macOS (OpenCore bootloader)
 
 <img align="right" src="/Images/t460s-monterey.png" alt="Lenovo Thinkpad T460s macOS Hackintosh OpenCore" width="300">
 
