@@ -4,9 +4,6 @@
 
 [![macOS](https://img.shields.io/badge/macOS-11.6.7-blue)](https://developer.apple.com/documentation/macos-release-notes)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.8.1-green)](https://github.com/acidanthera/OpenCorePkg)
-[![Model](https://img.shields.io/badge/Model-20F9*-lightgrey)](https://psref.lenovo.com/Product/ThinkPad_T460s)
-[![BIOS](https://img.shields.io/badge/BIOS-1.53-yellow)](https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/thinkpad-t-series-laptops/thinkpad-t460s/downloads/driver-list/component?name=BIOS%2FUEFI)
-[![License](https://img.shields.io/badge/license-MIT-purple)](/LICENSE)
 
 **DISCLAIMER:**  
 - Baca seluruh README sebelum Anda mulai
@@ -151,6 +148,7 @@ sudo pmset -a powernap 0
 ```
 
 Untuk mengembalikkan pengaturan awal jalankan `pmset restoredefaults` pada terminal.
+</details> 
 
 ## Status
 
